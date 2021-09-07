@@ -15,6 +15,18 @@
         <hibernate-validator.version>5.2.1.Final</hibernate-validator.version>
         <mysql-connector.version>5.1.36</mysql-connector.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
+	    <jdk.version>1.8</jdk.version>
+		<spring.version>5.1.2.RELEASE</spring.version>
+		<junit.version>4.11</junit.version>
+		<log4j.version>1.2.17</log4j.version>
+		
+	    <!-- <sonar.host.url>http://3.141.100.62/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>admin</sonar.password>
+		-->
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+	    
 	    <sonar.host.url>http://3.141.100.62/</sonar.host.url>
 	    <sonar.login>admin</sonar.login>
 	    <sonar.password>admin</sonar.password>
